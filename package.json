@@ -2,9 +2,9 @@
   "name": "quest",
   "version": "1.0.0",
   "description": "",
-  "main": "src/000.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node src/000.js"
+    "start": "node src/index.js"
   },
   "dependencies": {
     "express": "~4.16.3"
